@@ -42,10 +42,10 @@
     flex-wrap: wrap;
 }
 .contact_image {
-    width: 300px;
+    width: 320px;
     border-radius: 50%;
 }
 footer h2 {
     text-align: center;
-    padding-top: 70px;
+    padding-top: 30px;
 }
