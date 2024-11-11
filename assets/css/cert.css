@@ -17,12 +17,12 @@
 }
 
 .certificate {
-    width: 150px; /* ширина кожного сертифіката */
+    width: 300px; /* ширина кожного сертифіката */
     text-align: center;
 }
 
 .thumbnail {
-    width: 150px; /* Фіксована ширина */
+    width: 300px; /* Фіксована ширина */
     height: 200px; /* Фіксована висота */
     object-fit: cover; /* Зберігає пропорції та обрізає зайве */
     border: 2px solid #007bff;
